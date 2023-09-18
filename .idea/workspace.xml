@@ -4,11 +4,82 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab2547a8-c701-4e9e-b43f-87839b41b3aa" name="Changes" comment="" />
+    <list default="true" id="ab2547a8-c701-4e9e-b43f-87839b41b3aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/emojis/laughing-emoji.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/emojis/laughing-emoji.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/emojis/thinking-emoji.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/emojis/thinking-emoji.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/emojis/winking-emoji.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/emojis/winking-face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/auth/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/auth/sign-in/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/auth/template.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/error.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/auth/login-component.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/life-planner-app.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/privat-route.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/auth/emojis.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/auth/login-form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/auth/shapes-bg.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/icons/spinner-icon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/icons/theme-dark-icon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/icons/theme-light-icon.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/error-message.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/forms/form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/forms/input.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/forms/label.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/forms/password.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/image.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/link.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/links/active-link.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/links/anchor-link.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/logo/full/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/logo/full/light.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/logo/full/primary.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ui/theme-switcher.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/validate-environment-variables.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interface/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middleware.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/client/endpoints.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/client/http-client.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/client/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/framer-motion/fade-in-bottom.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/framer-motion/fade-in-out.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/framer-motion/stagger-transition.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/hooks/use-auth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/hooks/use-breakpoint.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/hooks/use-is-dark-mode.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/hooks/use-is-mounted.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/hooks/use-maxlength.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/range-map.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/tokens.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,6 +91,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Tk5oEro3rIjN332VxF5LkyGg4Y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,15 +105,28 @@
     "WebServerToolWindowFactoryState": "false",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/pennycodes/Sites/js/lifeplanner-webapp",
+    "last_opened_file_path": "/Users/pennycodes/Sites/js/lifeplanner-webapp/public",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
+    "ts.external.directory.path": "/Users/pennycodes/Sites/js/lifeplanner-webapp/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/ui" />
+      <recent name="$PROJECT_DIR$/src/services/client" />
+      <recent name="$PROJECT_DIR$/src/app" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,7 +135,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691574412069</updated>
-      <workItem from="1691574419096" duration="531000" />
+      <workItem from="1691574419096" duration="4455000" />
+      <workItem from="1691661344676" duration="9990000" />
     </task>
     <servers />
   </component>
